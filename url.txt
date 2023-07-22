@@ -1,0 +1,7 @@
+[scheme]://[userinfo@]host[:port][/path][?query][#fragment]
+
+scheme = 프로토콜
+userinfo@ = 사용자 인증인데 잘 안쓰임
+host = 
+
+port : 655xx
